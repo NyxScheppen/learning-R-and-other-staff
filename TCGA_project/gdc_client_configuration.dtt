@@ -1,0 +1,3 @@
+[download]
+retry_amount = 6
+dir =00_raw_data/TCGA-LIHC/Transcriptome_Profiling/Gene_Expression_Quantification
